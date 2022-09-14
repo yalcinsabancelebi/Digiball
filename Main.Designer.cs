@@ -69,16 +69,22 @@
             this.label7 = new System.Windows.Forms.Label();
             this.tabPage9 = new System.Windows.Forms.TabPage();
             this.label8 = new System.Windows.Forms.Label();
+<<<<<<< HEAD
             this.homelogo = new System.Windows.Forms.PictureBox();
             this.v = new System.Windows.Forms.Label();
             this.awaylogo = new System.Windows.Forms.PictureBox();
             this.dataGridView1 = new System.Windows.Forms.DataGridView();
+=======
+>>>>>>> fd53677075a9f715ca932c6bb62448e4bb2c0061
             this.LeftPanel.SuspendLayout();
             this.UpperPanel.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.teamlogopic)).BeginInit();
             this.HomePanel.SuspendLayout();
+<<<<<<< HEAD
             this.panel2.SuspendLayout();
             this.panel1.SuspendLayout();
+=======
+>>>>>>> fd53677075a9f715ca932c6bb62448e4bb2c0061
             this.tabControl1.SuspendLayout();
             this.tabPage1.SuspendLayout();
             this.tabPage2.SuspendLayout();
@@ -89,9 +95,12 @@
             this.tabPage7.SuspendLayout();
             this.tabPage8.SuspendLayout();
             this.tabPage9.SuspendLayout();
+<<<<<<< HEAD
             ((System.ComponentModel.ISupportInitialize)(this.homelogo)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.awaylogo)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
+=======
+>>>>>>> fd53677075a9f715ca932c6bb62448e4bb2c0061
             this.SuspendLayout();
             // 
             // LeftPanel
@@ -369,7 +378,10 @@
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
             this.panel2.BackColor = System.Drawing.Color.Gainsboro;
+<<<<<<< HEAD
             this.panel2.Controls.Add(this.dataGridView1);
+=======
+>>>>>>> fd53677075a9f715ca932c6bb62448e4bb2c0061
             this.panel2.Location = new System.Drawing.Point(400, 380);
             this.panel2.Name = "panel2";
             this.panel2.Size = new System.Drawing.Size(411, 556);
@@ -381,9 +393,12 @@
             | System.Windows.Forms.AnchorStyles.Left) 
             | System.Windows.Forms.AnchorStyles.Right)));
             this.panel1.BackColor = System.Drawing.Color.Gainsboro;
+<<<<<<< HEAD
             this.panel1.Controls.Add(this.awaylogo);
             this.panel1.Controls.Add(this.v);
             this.panel1.Controls.Add(this.homelogo);
+=======
+>>>>>>> fd53677075a9f715ca932c6bb62448e4bb2c0061
             this.panel1.Location = new System.Drawing.Point(400, 42);
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(1311, 306);
@@ -604,6 +619,7 @@
             this.label8.TabIndex = 3;
             this.label8.Text = "Menajer Sayfası";
             // 
+<<<<<<< HEAD
             // homelogo
             // 
             this.homelogo.Image = ((System.Drawing.Image)(resources.GetObject("homelogo.Image")));
@@ -647,6 +663,8 @@
             this.dataGridView1.Size = new System.Drawing.Size(350, 500);
             this.dataGridView1.TabIndex = 0;
             // 
+=======
+>>>>>>> fd53677075a9f715ca932c6bb62448e4bb2c0061
             // Main
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
@@ -672,9 +690,12 @@
             this.UpperPanel.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.teamlogopic)).EndInit();
             this.HomePanel.ResumeLayout(false);
+<<<<<<< HEAD
             this.panel2.ResumeLayout(false);
             this.panel1.ResumeLayout(false);
             this.panel1.PerformLayout();
+=======
+>>>>>>> fd53677075a9f715ca932c6bb62448e4bb2c0061
             this.tabControl1.ResumeLayout(false);
             this.tabPage1.ResumeLayout(false);
             this.tabPage2.ResumeLayout(false);
@@ -692,9 +713,12 @@
             this.tabPage8.PerformLayout();
             this.tabPage9.ResumeLayout(false);
             this.tabPage9.PerformLayout();
+<<<<<<< HEAD
             ((System.ComponentModel.ISupportInitialize)(this.homelogo)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.awaylogo)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
+=======
+>>>>>>> fd53677075a9f715ca932c6bb62448e4bb2c0061
             this.ResumeLayout(false);
 
         }
@@ -741,9 +765,12 @@
         private Panel panel3;
         private Panel panel2;
         private Panel panel5;
+<<<<<<< HEAD
         private DataGridView dataGridView1;
         private PictureBox awaylogo;
         private Label v;
         private PictureBox homelogo;
+=======
+>>>>>>> fd53677075a9f715ca932c6bb62448e4bb2c0061
     }
 }

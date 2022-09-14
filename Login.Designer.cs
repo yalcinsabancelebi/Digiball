@@ -396,6 +396,10 @@
 
         private Label label1;
         private TextBox nametbx;
+<<<<<<< HEAD
+=======
+        private ComboBox teamcbx;
+>>>>>>> fd53677075a9f715ca932c6bb62448e4bb2c0061
         private Label label2;
         private TextBox surnametbx;
         private Label label3;
@@ -420,6 +424,9 @@
         public Label estlbl;
         public Label stadiumlbl;
         public Label countrylbl;
+<<<<<<< HEAD
         public ComboBox teamcbx;
+=======
+>>>>>>> fd53677075a9f715ca932c6bb62448e4bb2c0061
     }
 }

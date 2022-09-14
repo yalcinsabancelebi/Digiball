@@ -42,10 +42,17 @@ namespace Digiball
             countrylbl.Text = Country;
             teamlogopic.Image = Image.FromFile(Logo.ToString());
 
+<<<<<<< HEAD
 
 
 
             PlayerInMain pim=new PlayerInMain();
+=======
+            PlayerInMain pim=new PlayerInMain();
+            
+
+
+>>>>>>> fd53677075a9f715ca932c6bb62448e4bb2c0061
 
             foreach (KeyValuePair<int, string[]> player in Login.players)
             {

@@ -21,11 +21,14 @@ namespace Digiball
         private void TacticalPage_Paint(object sender, PaintEventArgs e)
         {
 <<<<<<< HEAD
+<<<<<<< HEAD
 
         }
         public static StaffList staffList = new StaffList();
 
 =======
+=======
+>>>>>>> fd53677075a9f715ca932c6bb62448e4bb2c0061
             for (int i = 1; i <= 36; i++)
             {
                 var deneme = (Panel)this.Controls.Find("panel" + i, true)[0];
@@ -39,7 +42,10 @@ namespace Digiball
 
         }
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> fd53677075a9f715ca932c6bb62448e4bb2c0061
         private void TacticalPage_Load(object sender, EventArgs e)
         {
 
@@ -60,6 +66,7 @@ namespace Digiball
                     staffList.PlayerHeight = player.Value[4];
                     staffList.PlayerWeight = player.Value[5];
                 }
+<<<<<<< HEAD
                 stafflistmain.Controls.Add(staffList);
             }
         }
@@ -1415,6 +1422,8 @@ namespace Digiball
         //    }
         //}
 =======
+=======
+>>>>>>> fd53677075a9f715ca932c6bb62448e4bb2c0061
 
                 stafflistmain.Controls.Add(staffList);
 
@@ -1428,6 +1437,9 @@ namespace Digiball
             stafflistmain.Controls.SetChildIndex(staffList, 3);
             stafflistmain.ResumeLayout();
         }
+<<<<<<< HEAD
+>>>>>>> fd53677075a9f715ca932c6bb62448e4bb2c0061
+=======
 >>>>>>> fd53677075a9f715ca932c6bb62448e4bb2c0061
     }
 }

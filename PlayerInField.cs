@@ -28,6 +28,7 @@ namespace Digiball
             InitializeComponent();
             this.BorderStyle = BorderStyle.None;
             Region = System.Drawing.Region.FromHrgn(CreateRoundRectRgn(0, 0, Width, Height, 20, 20));
+<<<<<<< HEAD
             
         }
 
@@ -39,6 +40,8 @@ namespace Digiball
         private void PlayerInField_DragDrop(object sender, DragEventArgs e)
         {
 
+=======
+>>>>>>> fd53677075a9f715ca932c6bb62448e4bb2c0061
         }
     }
 }

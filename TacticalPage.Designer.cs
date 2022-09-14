@@ -29,6 +29,7 @@
         private void InitializeComponent()
         {
             this.fieldpanel = new System.Windows.Forms.Panel();
+<<<<<<< HEAD
             this.playerInField11 = new Digiball.PlayerInField();
             this.playerInField10 = new Digiball.PlayerInField();
             this.playerInField9 = new Digiball.PlayerInField();
@@ -36,10 +37,19 @@
             this.playerInField7 = new Digiball.PlayerInField();
             this.playerInField6 = new Digiball.PlayerInField();
             this.playerInField5 = new Digiball.PlayerInField();
+=======
+            this.playerInField9 = new Digiball.PlayerInField();
+            this.playerInField10 = new Digiball.PlayerInField();
+            this.playerInField5 = new Digiball.PlayerInField();
+            this.playerInField6 = new Digiball.PlayerInField();
+            this.playerInField7 = new Digiball.PlayerInField();
+            this.playerInField8 = new Digiball.PlayerInField();
+>>>>>>> fd53677075a9f715ca932c6bb62448e4bb2c0061
             this.playerInField4 = new Digiball.PlayerInField();
             this.playerInField3 = new Digiball.PlayerInField();
             this.playerInField2 = new Digiball.PlayerInField();
             this.playerInField1 = new Digiball.PlayerInField();
+<<<<<<< HEAD
             this.leftpanel = new System.Windows.Forms.Panel();
             this.panel5 = new System.Windows.Forms.Panel();
             this.label10 = new System.Windows.Forms.Label();
@@ -63,10 +73,51 @@
             this.comboBox2 = new System.Windows.Forms.ComboBox();
             this.formationcbx = new System.Windows.Forms.ComboBox();
             this.label4 = new System.Windows.Forms.Label();
+=======
+            this.panel36 = new System.Windows.Forms.Panel();
+            this.panel35 = new System.Windows.Forms.Panel();
+            this.panel34 = new System.Windows.Forms.Panel();
+            this.panel33 = new System.Windows.Forms.Panel();
+            this.panel32 = new System.Windows.Forms.Panel();
+            this.panel4 = new System.Windows.Forms.Panel();
+            this.panel3 = new System.Windows.Forms.Panel();
+            this.panel31 = new System.Windows.Forms.Panel();
+            this.panel30 = new System.Windows.Forms.Panel();
+            this.panel29 = new System.Windows.Forms.Panel();
+            this.panel28 = new System.Windows.Forms.Panel();
+            this.panel27 = new System.Windows.Forms.Panel();
+            this.panel26 = new System.Windows.Forms.Panel();
+            this.panel25 = new System.Windows.Forms.Panel();
+            this.panel24 = new System.Windows.Forms.Panel();
+            this.panel23 = new System.Windows.Forms.Panel();
+            this.panel22 = new System.Windows.Forms.Panel();
+            this.panel21 = new System.Windows.Forms.Panel();
+            this.panel20 = new System.Windows.Forms.Panel();
+            this.panel19 = new System.Windows.Forms.Panel();
+            this.panel18 = new System.Windows.Forms.Panel();
+            this.panel17 = new System.Windows.Forms.Panel();
+            this.panel16 = new System.Windows.Forms.Panel();
+            this.panel15 = new System.Windows.Forms.Panel();
+            this.panel14 = new System.Windows.Forms.Panel();
+            this.panel13 = new System.Windows.Forms.Panel();
+            this.panel12 = new System.Windows.Forms.Panel();
+            this.panel11 = new System.Windows.Forms.Panel();
+            this.panel10 = new System.Windows.Forms.Panel();
+            this.panel9 = new System.Windows.Forms.Panel();
+            this.panel8 = new System.Windows.Forms.Panel();
+            this.panel7 = new System.Windows.Forms.Panel();
+            this.panel6 = new System.Windows.Forms.Panel();
+            this.panel5 = new System.Windows.Forms.Panel();
+            this.panel2 = new System.Windows.Forms.Panel();
+            this.panel1 = new System.Windows.Forms.Panel();
+            this.leftpanel = new System.Windows.Forms.Panel();
+            this.label2 = new System.Windows.Forms.Label();
+>>>>>>> fd53677075a9f715ca932c6bb62448e4bb2c0061
             this.panel37 = new System.Windows.Forms.Panel();
             this.label3 = new System.Windows.Forms.Label();
             this.stafflistmain = new System.Windows.Forms.FlowLayoutPanel();
             this.panel39 = new System.Windows.Forms.Panel();
+<<<<<<< HEAD
             this.panel4 = new System.Windows.Forms.Panel();
             this.label11 = new System.Windows.Forms.Label();
             this.flowLayoutPanel1 = new System.Windows.Forms.FlowLayoutPanel();
@@ -77,11 +128,15 @@
             this.playerInField16 = new Digiball.PlayerInField();
             this.playerInField17 = new Digiball.PlayerInField();
             this.playerInField18 = new Digiball.PlayerInField();
+=======
+            this.label1 = new System.Windows.Forms.Label();
+>>>>>>> fd53677075a9f715ca932c6bb62448e4bb2c0061
             this.panel38 = new System.Windows.Forms.Panel();
             this.linkLabel4 = new System.Windows.Forms.LinkLabel();
             this.linkLabel3 = new System.Windows.Forms.LinkLabel();
             this.linkLabel2 = new System.Windows.Forms.LinkLabel();
             this.linkLabel1 = new System.Windows.Forms.LinkLabel();
+<<<<<<< HEAD
             this.fieldpanel.SuspendLayout();
             this.leftpanel.SuspendLayout();
             this.panel5.SuspendLayout();
@@ -93,6 +148,13 @@
             this.panel39.SuspendLayout();
             this.panel4.SuspendLayout();
             this.flowLayoutPanel1.SuspendLayout();
+=======
+            this.playerInField11 = new Digiball.PlayerInField();
+            this.fieldpanel.SuspendLayout();
+            this.leftpanel.SuspendLayout();
+            this.panel37.SuspendLayout();
+            this.panel39.SuspendLayout();
+>>>>>>> fd53677075a9f715ca932c6bb62448e4bb2c0061
             this.panel38.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -104,21 +166,71 @@
             this.fieldpanel.BackgroundImage = global::Digiball.Properties.Resources.soccerfield;
             this.fieldpanel.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.fieldpanel.Controls.Add(this.playerInField11);
+<<<<<<< HEAD
             this.fieldpanel.Controls.Add(this.playerInField10);
             this.fieldpanel.Controls.Add(this.playerInField9);
             this.fieldpanel.Controls.Add(this.playerInField8);
             this.fieldpanel.Controls.Add(this.playerInField7);
             this.fieldpanel.Controls.Add(this.playerInField6);
             this.fieldpanel.Controls.Add(this.playerInField5);
+=======
+            this.fieldpanel.Controls.Add(this.playerInField9);
+            this.fieldpanel.Controls.Add(this.playerInField10);
+            this.fieldpanel.Controls.Add(this.playerInField5);
+            this.fieldpanel.Controls.Add(this.playerInField6);
+            this.fieldpanel.Controls.Add(this.playerInField7);
+            this.fieldpanel.Controls.Add(this.playerInField8);
+>>>>>>> fd53677075a9f715ca932c6bb62448e4bb2c0061
             this.fieldpanel.Controls.Add(this.playerInField4);
             this.fieldpanel.Controls.Add(this.playerInField3);
             this.fieldpanel.Controls.Add(this.playerInField2);
             this.fieldpanel.Controls.Add(this.playerInField1);
+<<<<<<< HEAD
             this.fieldpanel.Location = new System.Drawing.Point(246, 100);
+=======
+            this.fieldpanel.Controls.Add(this.panel36);
+            this.fieldpanel.Controls.Add(this.panel35);
+            this.fieldpanel.Controls.Add(this.panel34);
+            this.fieldpanel.Controls.Add(this.panel33);
+            this.fieldpanel.Controls.Add(this.panel32);
+            this.fieldpanel.Controls.Add(this.panel4);
+            this.fieldpanel.Controls.Add(this.panel3);
+            this.fieldpanel.Controls.Add(this.panel31);
+            this.fieldpanel.Controls.Add(this.panel30);
+            this.fieldpanel.Controls.Add(this.panel29);
+            this.fieldpanel.Controls.Add(this.panel28);
+            this.fieldpanel.Controls.Add(this.panel27);
+            this.fieldpanel.Controls.Add(this.panel26);
+            this.fieldpanel.Controls.Add(this.panel25);
+            this.fieldpanel.Controls.Add(this.panel24);
+            this.fieldpanel.Controls.Add(this.panel23);
+            this.fieldpanel.Controls.Add(this.panel22);
+            this.fieldpanel.Controls.Add(this.panel21);
+            this.fieldpanel.Controls.Add(this.panel20);
+            this.fieldpanel.Controls.Add(this.panel19);
+            this.fieldpanel.Controls.Add(this.panel18);
+            this.fieldpanel.Controls.Add(this.panel17);
+            this.fieldpanel.Controls.Add(this.panel16);
+            this.fieldpanel.Controls.Add(this.panel15);
+            this.fieldpanel.Controls.Add(this.panel14);
+            this.fieldpanel.Controls.Add(this.panel13);
+            this.fieldpanel.Controls.Add(this.panel12);
+            this.fieldpanel.Controls.Add(this.panel11);
+            this.fieldpanel.Controls.Add(this.panel10);
+            this.fieldpanel.Controls.Add(this.panel9);
+            this.fieldpanel.Controls.Add(this.panel8);
+            this.fieldpanel.Controls.Add(this.panel7);
+            this.fieldpanel.Controls.Add(this.panel6);
+            this.fieldpanel.Controls.Add(this.panel5);
+            this.fieldpanel.Controls.Add(this.panel2);
+            this.fieldpanel.Controls.Add(this.panel1);
+            this.fieldpanel.Location = new System.Drawing.Point(251, 100);
+>>>>>>> fd53677075a9f715ca932c6bb62448e4bb2c0061
             this.fieldpanel.Name = "fieldpanel";
             this.fieldpanel.Size = new System.Drawing.Size(490, 860);
             this.fieldpanel.TabIndex = 3;
             // 
+<<<<<<< HEAD
             // playerInField11
             // 
             this.playerInField11.AllowDrop = true;
@@ -239,12 +351,356 @@
             this.playerInField1.Size = new System.Drawing.Size(80, 100);
             this.playerInField1.TabIndex = 15;
             this.playerInField1.DragDrop += new System.Windows.Forms.DragEventHandler(this.playerInField1_DragDrop);
+=======
+            // playerInField9
+            // 
+            this.playerInField9.BackColor = System.Drawing.Color.White;
+            this.playerInField9.Location = new System.Drawing.Point(260, 93);
+            this.playerInField9.Margin = new System.Windows.Forms.Padding(0);
+            this.playerInField9.Name = "playerInField9";
+            this.playerInField9.Size = new System.Drawing.Size(80, 100);
+            this.playerInField9.TabIndex = 14;
+            // 
+            // playerInField10
+            // 
+            this.playerInField10.BackColor = System.Drawing.Color.White;
+            this.playerInField10.Location = new System.Drawing.Point(150, 93);
+            this.playerInField10.Margin = new System.Windows.Forms.Padding(0);
+            this.playerInField10.Name = "playerInField10";
+            this.playerInField10.Size = new System.Drawing.Size(80, 100);
+            this.playerInField10.TabIndex = 13;
+            // 
+            // playerInField5
+            // 
+            this.playerInField5.BackColor = System.Drawing.Color.White;
+            this.playerInField5.Location = new System.Drawing.Point(370, 355);
+            this.playerInField5.Margin = new System.Windows.Forms.Padding(0);
+            this.playerInField5.Name = "playerInField5";
+            this.playerInField5.Size = new System.Drawing.Size(80, 100);
+            this.playerInField5.TabIndex = 12;
+            // 
+            // playerInField6
+            // 
+            this.playerInField6.BackColor = System.Drawing.Color.White;
+            this.playerInField6.Location = new System.Drawing.Point(260, 355);
+            this.playerInField6.Margin = new System.Windows.Forms.Padding(0);
+            this.playerInField6.Name = "playerInField6";
+            this.playerInField6.Size = new System.Drawing.Size(80, 100);
+            this.playerInField6.TabIndex = 11;
+            // 
+            // playerInField7
+            // 
+            this.playerInField7.BackColor = System.Drawing.Color.White;
+            this.playerInField7.Location = new System.Drawing.Point(150, 355);
+            this.playerInField7.Margin = new System.Windows.Forms.Padding(0);
+            this.playerInField7.Name = "playerInField7";
+            this.playerInField7.Size = new System.Drawing.Size(80, 100);
+            this.playerInField7.TabIndex = 10;
+            // 
+            // playerInField8
+            // 
+            this.playerInField8.BackColor = System.Drawing.Color.White;
+            this.playerInField8.Location = new System.Drawing.Point(40, 355);
+            this.playerInField8.Margin = new System.Windows.Forms.Padding(0);
+            this.playerInField8.Name = "playerInField8";
+            this.playerInField8.Size = new System.Drawing.Size(80, 100);
+            this.playerInField8.TabIndex = 9;
+            // 
+            // playerInField4
+            // 
+            this.playerInField4.BackColor = System.Drawing.Color.White;
+            this.playerInField4.Location = new System.Drawing.Point(370, 561);
+            this.playerInField4.Margin = new System.Windows.Forms.Padding(0);
+            this.playerInField4.Name = "playerInField4";
+            this.playerInField4.Size = new System.Drawing.Size(80, 100);
+            this.playerInField4.TabIndex = 8;
+            // 
+            // playerInField3
+            // 
+            this.playerInField3.BackColor = System.Drawing.Color.White;
+            this.playerInField3.Location = new System.Drawing.Point(260, 561);
+            this.playerInField3.Margin = new System.Windows.Forms.Padding(0);
+            this.playerInField3.Name = "playerInField3";
+            this.playerInField3.Size = new System.Drawing.Size(80, 100);
+            this.playerInField3.TabIndex = 7;
+            // 
+            // playerInField2
+            // 
+            this.playerInField2.BackColor = System.Drawing.Color.White;
+            this.playerInField2.Location = new System.Drawing.Point(150, 561);
+            this.playerInField2.Margin = new System.Windows.Forms.Padding(0);
+            this.playerInField2.Name = "playerInField2";
+            this.playerInField2.Size = new System.Drawing.Size(80, 100);
+            this.playerInField2.TabIndex = 6;
+            // 
+            // playerInField1
+            // 
+            this.playerInField1.BackColor = System.Drawing.Color.White;
+            this.playerInField1.Location = new System.Drawing.Point(40, 561);
+            this.playerInField1.Margin = new System.Windows.Forms.Padding(0);
+            this.playerInField1.Name = "playerInField1";
+            this.playerInField1.Size = new System.Drawing.Size(80, 100);
+            this.playerInField1.TabIndex = 1;
+            // 
+            // panel36
+            // 
+            this.panel36.Location = new System.Drawing.Point(392, 26);
+            this.panel36.Name = "panel36";
+            this.panel36.Size = new System.Drawing.Size(90, 90);
+            this.panel36.TabIndex = 5;
+            // 
+            // panel35
+            // 
+            this.panel35.Location = new System.Drawing.Point(296, 26);
+            this.panel35.Name = "panel35";
+            this.panel35.Size = new System.Drawing.Size(90, 90);
+            this.panel35.TabIndex = 4;
+            // 
+            // panel34
+            // 
+            this.panel34.Location = new System.Drawing.Point(200, 26);
+            this.panel34.Name = "panel34";
+            this.panel34.Size = new System.Drawing.Size(90, 90);
+            this.panel34.TabIndex = 3;
+            // 
+            // panel33
+            // 
+            this.panel33.Location = new System.Drawing.Point(104, 26);
+            this.panel33.Name = "panel33";
+            this.panel33.Size = new System.Drawing.Size(90, 90);
+            this.panel33.TabIndex = 2;
+            // 
+            // panel32
+            // 
+            this.panel32.Location = new System.Drawing.Point(8, 26);
+            this.panel32.Name = "panel32";
+            this.panel32.Size = new System.Drawing.Size(90, 90);
+            this.panel32.TabIndex = 1;
+            // 
+            // panel4
+            // 
+            this.panel4.Location = new System.Drawing.Point(200, 602);
+            this.panel4.Name = "panel4";
+            this.panel4.Size = new System.Drawing.Size(90, 90);
+            this.panel4.TabIndex = 0;
+            // 
+            // panel3
+            // 
+            this.panel3.Location = new System.Drawing.Point(104, 602);
+            this.panel3.Name = "panel3";
+            this.panel3.Size = new System.Drawing.Size(90, 90);
+            this.panel3.TabIndex = 0;
+            // 
+            // panel31
+            // 
+            this.panel31.Location = new System.Drawing.Point(392, 122);
+            this.panel31.Name = "panel31";
+            this.panel31.Size = new System.Drawing.Size(90, 90);
+            this.panel31.TabIndex = 0;
+            // 
+            // panel30
+            // 
+            this.panel30.Location = new System.Drawing.Point(296, 122);
+            this.panel30.Name = "panel30";
+            this.panel30.Size = new System.Drawing.Size(90, 90);
+            this.panel30.TabIndex = 0;
+            // 
+            // panel29
+            // 
+            this.panel29.Location = new System.Drawing.Point(200, 122);
+            this.panel29.Name = "panel29";
+            this.panel29.Size = new System.Drawing.Size(90, 90);
+            this.panel29.TabIndex = 0;
+            // 
+            // panel28
+            // 
+            this.panel28.Location = new System.Drawing.Point(104, 122);
+            this.panel28.Name = "panel28";
+            this.panel28.Size = new System.Drawing.Size(90, 90);
+            this.panel28.TabIndex = 0;
+            // 
+            // panel27
+            // 
+            this.panel27.Location = new System.Drawing.Point(8, 122);
+            this.panel27.Name = "panel27";
+            this.panel27.Size = new System.Drawing.Size(90, 90);
+            this.panel27.TabIndex = 0;
+            // 
+            // panel26
+            // 
+            this.panel26.Location = new System.Drawing.Point(392, 218);
+            this.panel26.Name = "panel26";
+            this.panel26.Size = new System.Drawing.Size(90, 90);
+            this.panel26.TabIndex = 0;
+            // 
+            // panel25
+            // 
+            this.panel25.Location = new System.Drawing.Point(296, 218);
+            this.panel25.Name = "panel25";
+            this.panel25.Size = new System.Drawing.Size(90, 90);
+            this.panel25.TabIndex = 0;
+            // 
+            // panel24
+            // 
+            this.panel24.Location = new System.Drawing.Point(200, 218);
+            this.panel24.Name = "panel24";
+            this.panel24.Size = new System.Drawing.Size(90, 90);
+            this.panel24.TabIndex = 0;
+            // 
+            // panel23
+            // 
+            this.panel23.Location = new System.Drawing.Point(104, 218);
+            this.panel23.Name = "panel23";
+            this.panel23.Size = new System.Drawing.Size(90, 90);
+            this.panel23.TabIndex = 0;
+            // 
+            // panel22
+            // 
+            this.panel22.Location = new System.Drawing.Point(8, 218);
+            this.panel22.Name = "panel22";
+            this.panel22.Size = new System.Drawing.Size(90, 90);
+            this.panel22.TabIndex = 0;
+            // 
+            // panel21
+            // 
+            this.panel21.Location = new System.Drawing.Point(392, 314);
+            this.panel21.Name = "panel21";
+            this.panel21.Size = new System.Drawing.Size(90, 90);
+            this.panel21.TabIndex = 0;
+            // 
+            // panel20
+            // 
+            this.panel20.Location = new System.Drawing.Point(296, 314);
+            this.panel20.Name = "panel20";
+            this.panel20.Size = new System.Drawing.Size(90, 90);
+            this.panel20.TabIndex = 0;
+            // 
+            // panel19
+            // 
+            this.panel19.Location = new System.Drawing.Point(200, 314);
+            this.panel19.Name = "panel19";
+            this.panel19.Size = new System.Drawing.Size(90, 90);
+            this.panel19.TabIndex = 0;
+            // 
+            // panel18
+            // 
+            this.panel18.Location = new System.Drawing.Point(104, 314);
+            this.panel18.Name = "panel18";
+            this.panel18.Size = new System.Drawing.Size(90, 90);
+            this.panel18.TabIndex = 0;
+            // 
+            // panel17
+            // 
+            this.panel17.Location = new System.Drawing.Point(8, 314);
+            this.panel17.Name = "panel17";
+            this.panel17.Size = new System.Drawing.Size(90, 90);
+            this.panel17.TabIndex = 0;
+            // 
+            // panel16
+            // 
+            this.panel16.Location = new System.Drawing.Point(392, 410);
+            this.panel16.Name = "panel16";
+            this.panel16.Size = new System.Drawing.Size(90, 90);
+            this.panel16.TabIndex = 0;
+            // 
+            // panel15
+            // 
+            this.panel15.Location = new System.Drawing.Point(296, 410);
+            this.panel15.Name = "panel15";
+            this.panel15.Size = new System.Drawing.Size(90, 90);
+            this.panel15.TabIndex = 0;
+            // 
+            // panel14
+            // 
+            this.panel14.Location = new System.Drawing.Point(200, 410);
+            this.panel14.Name = "panel14";
+            this.panel14.Size = new System.Drawing.Size(90, 90);
+            this.panel14.TabIndex = 0;
+            // 
+            // panel13
+            // 
+            this.panel13.Location = new System.Drawing.Point(104, 410);
+            this.panel13.Name = "panel13";
+            this.panel13.Size = new System.Drawing.Size(90, 90);
+            this.panel13.TabIndex = 0;
+            // 
+            // panel12
+            // 
+            this.panel12.Location = new System.Drawing.Point(8, 410);
+            this.panel12.Name = "panel12";
+            this.panel12.Size = new System.Drawing.Size(90, 90);
+            this.panel12.TabIndex = 0;
+            // 
+            // panel11
+            // 
+            this.panel11.Location = new System.Drawing.Point(392, 506);
+            this.panel11.Name = "panel11";
+            this.panel11.Size = new System.Drawing.Size(90, 90);
+            this.panel11.TabIndex = 0;
+            // 
+            // panel10
+            // 
+            this.panel10.Location = new System.Drawing.Point(296, 506);
+            this.panel10.Name = "panel10";
+            this.panel10.Size = new System.Drawing.Size(90, 90);
+            this.panel10.TabIndex = 0;
+            // 
+            // panel9
+            // 
+            this.panel9.Location = new System.Drawing.Point(200, 506);
+            this.panel9.Name = "panel9";
+            this.panel9.Size = new System.Drawing.Size(90, 90);
+            this.panel9.TabIndex = 0;
+            // 
+            // panel8
+            // 
+            this.panel8.Location = new System.Drawing.Point(104, 506);
+            this.panel8.Name = "panel8";
+            this.panel8.Size = new System.Drawing.Size(90, 90);
+            this.panel8.TabIndex = 0;
+            // 
+            // panel7
+            // 
+            this.panel7.Location = new System.Drawing.Point(8, 506);
+            this.panel7.Name = "panel7";
+            this.panel7.Size = new System.Drawing.Size(90, 90);
+            this.panel7.TabIndex = 0;
+            // 
+            // panel6
+            // 
+            this.panel6.Location = new System.Drawing.Point(392, 602);
+            this.panel6.Name = "panel6";
+            this.panel6.Size = new System.Drawing.Size(90, 90);
+            this.panel6.TabIndex = 0;
+            // 
+            // panel5
+            // 
+            this.panel5.Location = new System.Drawing.Point(296, 602);
+            this.panel5.Name = "panel5";
+            this.panel5.Size = new System.Drawing.Size(90, 90);
+            this.panel5.TabIndex = 0;
+            // 
+            // panel2
+            // 
+            this.panel2.Location = new System.Drawing.Point(8, 602);
+            this.panel2.Name = "panel2";
+            this.panel2.Size = new System.Drawing.Size(90, 90);
+            this.panel2.TabIndex = 0;
+            // 
+            // panel1
+            // 
+            this.panel1.Location = new System.Drawing.Point(200, 698);
+            this.panel1.Name = "panel1";
+            this.panel1.Size = new System.Drawing.Size(90, 90);
+            this.panel1.TabIndex = 0;
+>>>>>>> fd53677075a9f715ca932c6bb62448e4bb2c0061
             // 
             // leftpanel
             // 
             this.leftpanel.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Left)));
             this.leftpanel.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(182)))), ((int)(((byte)(62)))));
+<<<<<<< HEAD
             this.leftpanel.Controls.Add(this.panel5);
             this.leftpanel.Controls.Add(this.panel3);
             this.leftpanel.Controls.Add(this.button3);
@@ -253,10 +709,15 @@
             this.leftpanel.Controls.Add(this.panel2);
             this.leftpanel.Controls.Add(this.panel1);
             this.leftpanel.Location = new System.Drawing.Point(21, 100);
+=======
+            this.leftpanel.Controls.Add(this.label2);
+            this.leftpanel.Location = new System.Drawing.Point(25, 100);
+>>>>>>> fd53677075a9f715ca932c6bb62448e4bb2c0061
             this.leftpanel.Name = "leftpanel";
             this.leftpanel.Size = new System.Drawing.Size(220, 860);
             this.leftpanel.TabIndex = 4;
             // 
+<<<<<<< HEAD
             // panel5
             // 
             this.panel5.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(150)))), ((int)(((byte)(60)))));
@@ -534,14 +995,32 @@
             this.label4.Size = new System.Drawing.Size(75, 16);
             this.label4.TabIndex = 3;
             this.label4.Text = "Playing Field";
+=======
+            // label2
+            // 
+            this.label2.AutoSize = true;
+            this.label2.Font = new System.Drawing.Font("Segoe UI Semibold", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.label2.ForeColor = System.Drawing.Color.White;
+            this.label2.Location = new System.Drawing.Point(15, 13);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(50, 20);
+            this.label2.TabIndex = 0;
+            this.label2.Text = "label2";
+>>>>>>> fd53677075a9f715ca932c6bb62448e4bb2c0061
             // 
             // panel37
             // 
             this.panel37.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(182)))), ((int)(((byte)(62)))));
             this.panel37.Controls.Add(this.label3);
+<<<<<<< HEAD
             this.panel37.Location = new System.Drawing.Point(21, 25);
             this.panel37.Name = "panel37";
             this.panel37.Size = new System.Drawing.Size(940, 70);
+=======
+            this.panel37.Location = new System.Drawing.Point(25, 25);
+            this.panel37.Name = "panel37";
+            this.panel37.Size = new System.Drawing.Size(942, 69);
+>>>>>>> fd53677075a9f715ca932c6bb62448e4bb2c0061
             this.panel37.TabIndex = 5;
             // 
             // label3
@@ -549,7 +1028,11 @@
             this.label3.AutoSize = true;
             this.label3.Font = new System.Drawing.Font("Segoe UI Semibold", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
             this.label3.ForeColor = System.Drawing.Color.White;
+<<<<<<< HEAD
             this.label3.Location = new System.Drawing.Point(124, 22);
+=======
+            this.label3.Location = new System.Drawing.Point(15, 13);
+>>>>>>> fd53677075a9f715ca932c6bb62448e4bb2c0061
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(50, 20);
             this.label3.TabIndex = 0;
@@ -570,6 +1053,7 @@
             // 
             // panel39
             // 
+<<<<<<< HEAD
             this.panel39.AllowDrop = true;
             this.panel39.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
             | System.Windows.Forms.AnchorStyles.Left)));
@@ -577,10 +1061,18 @@
             this.panel39.Controls.Add(this.panel4);
             this.panel39.Controls.Add(this.flowLayoutPanel1);
             this.panel39.Location = new System.Drawing.Point(741, 100);
+=======
+            this.panel39.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left)));
+            this.panel39.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(182)))), ((int)(((byte)(62)))));
+            this.panel39.Controls.Add(this.label1);
+            this.panel39.Location = new System.Drawing.Point(747, 100);
+>>>>>>> fd53677075a9f715ca932c6bb62448e4bb2c0061
             this.panel39.Name = "panel39";
             this.panel39.Size = new System.Drawing.Size(220, 860);
             this.panel39.TabIndex = 5;
             // 
+<<<<<<< HEAD
             // panel4
             // 
             this.panel4.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(150)))), ((int)(((byte)(60)))));
@@ -694,6 +1186,18 @@
             this.playerInField18.Size = new System.Drawing.Size(80, 100);
             this.playerInField18.TabIndex = 6;
             this.playerInField18.DragDrop += new System.Windows.Forms.DragEventHandler(this.playerInField18_DragDrop);
+=======
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Font = new System.Drawing.Font("Segoe UI Semibold", 11.25F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point);
+            this.label1.ForeColor = System.Drawing.Color.White;
+            this.label1.Location = new System.Drawing.Point(15, 13);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(48, 20);
+            this.label1.TabIndex = 0;
+            this.label1.Text = "label1";
+>>>>>>> fd53677075a9f715ca932c6bb62448e4bb2c0061
             // 
             // panel38
             // 
@@ -755,6 +1259,19 @@
             this.linkLabel1.TabStop = true;
             this.linkLabel1.Text = "Forma\r\nNo\r\n";
             this.linkLabel1.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
+<<<<<<< HEAD
+=======
+            this.linkLabel1.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.linkLabel1_LinkClicked);
+            // 
+            // playerInField11
+            // 
+            this.playerInField11.BackColor = System.Drawing.Color.White;
+            this.playerInField11.Location = new System.Drawing.Point(200, 704);
+            this.playerInField11.Margin = new System.Windows.Forms.Padding(0);
+            this.playerInField11.Name = "playerInField11";
+            this.playerInField11.Size = new System.Drawing.Size(80, 100);
+            this.playerInField11.TabIndex = 15;
+>>>>>>> fd53677075a9f715ca932c6bb62448e4bb2c0061
             // 
             // TacticalPage
             // 
@@ -776,6 +1293,7 @@
             this.Paint += new System.Windows.Forms.PaintEventHandler(this.TacticalPage_Paint);
             this.fieldpanel.ResumeLayout(false);
             this.leftpanel.ResumeLayout(false);
+<<<<<<< HEAD
             this.panel5.ResumeLayout(false);
             this.panel5.PerformLayout();
             this.panel3.ResumeLayout(false);
@@ -791,6 +1309,13 @@
             this.panel4.ResumeLayout(false);
             this.panel4.PerformLayout();
             this.flowLayoutPanel1.ResumeLayout(false);
+=======
+            this.leftpanel.PerformLayout();
+            this.panel37.ResumeLayout(false);
+            this.panel37.PerformLayout();
+            this.panel39.ResumeLayout(false);
+            this.panel39.PerformLayout();
+>>>>>>> fd53677075a9f715ca932c6bb62448e4bb2c0061
             this.panel38.ResumeLayout(false);
             this.panel38.PerformLayout();
             this.ResumeLayout(false);
@@ -798,17 +1323,62 @@
         }
 
         #endregion
+<<<<<<< HEAD
+=======
+        private Panel fieldpanel;
+        private Panel panel4;
+        private Panel panel3;
+        private Panel panel31;
+        private Panel panel30;
+        private Panel panel29;
+        private Panel panel28;
+        private Panel panel27;
+        private Panel panel26;
+        private Panel panel25;
+        private Panel panel24;
+        private Panel panel23;
+        private Panel panel22;
+        private Panel panel21;
+        private Panel panel20;
+        private Panel panel19;
+        private Panel panel18;
+        private Panel panel17;
+        private Panel panel16;
+        private Panel panel15;
+        private Panel panel14;
+        private Panel panel13;
+        private Panel panel12;
+        private Panel panel11;
+        private Panel panel10;
+        private Panel panel9;
+        private Panel panel8;
+        private Panel panel7;
+        private Panel panel6;
+        private Panel panel5;
+        private Panel panel2;
+        private Panel panel1;
+        private Panel panel36;
+        private Panel panel35;
+        private Panel panel34;
+        private Panel panel33;
+        private Panel panel32;
+>>>>>>> fd53677075a9f715ca932c6bb62448e4bb2c0061
         private Panel leftpanel;
         private Label label2;
         private Panel panel37;
         private Label label3;
         public FlowLayoutPanel stafflistmain;
         private Panel panel39;
+<<<<<<< HEAD
+=======
+        private Label label1;
+>>>>>>> fd53677075a9f715ca932c6bb62448e4bb2c0061
         private Panel panel38;
         private LinkLabel linkLabel4;
         private LinkLabel linkLabel3;
         private LinkLabel linkLabel2;
         private LinkLabel linkLabel1;
+<<<<<<< HEAD
         public PlayerInField playerInField1;
         public PlayerInField playerInField2;
         public PlayerInField playerInField11;
@@ -852,5 +1422,18 @@
         private Label label11;
         private Panel panel5;
         private Label label12;
+=======
+        private PlayerInField playerInField9;
+        private PlayerInField playerInField10;
+        private PlayerInField playerInField5;
+        private PlayerInField playerInField6;
+        private PlayerInField playerInField7;
+        private PlayerInField playerInField8;
+        private PlayerInField playerInField4;
+        private PlayerInField playerInField3;
+        private PlayerInField playerInField2;
+        private PlayerInField playerInField1;
+        private PlayerInField playerInField11;
+>>>>>>> fd53677075a9f715ca932c6bb62448e4bb2c0061
     }
 }

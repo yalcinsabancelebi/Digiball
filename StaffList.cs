@@ -11,7 +11,11 @@ using System.Runtime.InteropServices;
 
 namespace Digiball
 {
+<<<<<<< HEAD
 
+=======
+    
+>>>>>>> fd53677075a9f715ca932c6bb62448e4bb2c0061
     public partial class StaffList : UserControl
     {
 
@@ -20,8 +24,12 @@ namespace Digiball
             get { return formanolbl.Text; }
             set { formanolbl.Text = value; }
         }
+<<<<<<< HEAD
         public string Position
         {
+=======
+        public string Position {
+>>>>>>> fd53677075a9f715ca932c6bb62448e4bb2c0061
             get { return positionlbl.Text; }
             set { positionlbl.Text = value; }
         }
@@ -35,8 +43,12 @@ namespace Digiball
             get { return playerpic.ImageLocation; }
             set { playerpic.ImageLocation = value; }
         }
+<<<<<<< HEAD
         public string NameSurname
         {
+=======
+        public string NameSurname {
+>>>>>>> fd53677075a9f715ca932c6bb62448e4bb2c0061
             get { return namesurnamelbl.Text; }
             set { namesurnamelbl.Text = value; }
         }
@@ -97,8 +109,15 @@ namespace Digiball
         public StaffList()
         {
             InitializeComponent();
+<<<<<<< HEAD
             this.BorderStyle = BorderStyle.None;
             Region = System.Drawing.Region.FromHrgn(CreateRoundRectRgn(0, 0, Width, Height, 20, 20));
+=======
+            //this.BackColor = Color.FromArgb(100, Color.MidnightBlue);
+            this.BorderStyle = BorderStyle.None;
+            Region = System.Drawing.Region.FromHrgn(CreateRoundRectRgn(0, 0, Width, Height, 20, 20));
+
+>>>>>>> fd53677075a9f715ca932c6bb62448e4bb2c0061
         }
 
         private void StaffList_Load(object sender, EventArgs e)
@@ -127,6 +146,7 @@ namespace Digiball
                 }
             }
         }
+<<<<<<< HEAD
 
         private void StaffList_MouseDown(object sender, MouseEventArgs e)
         {
@@ -137,5 +157,7 @@ namespace Digiball
         {
             staffpanel.DoDragDrop((StaffList)this, DragDropEffects.Copy);
         }
+=======
+>>>>>>> fd53677075a9f715ca932c6bb62448e4bb2c0061
     }
 }

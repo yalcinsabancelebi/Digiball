@@ -2243,6 +2243,7 @@
         FA0jGkIyAAAAAElFTkSuQmCC
 </value>
   </data>
+<<<<<<< HEAD
   <data name="awaylogo.Image" type="System.Drawing.Bitmap, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
     <value>
         iVBORw0KGgoAAAANSUhEUgAAAR4AAAEdCAYAAADaXQh4AAAABGdBTUEAALGPC/xhBQAA/8dJREFUeF7s
@@ -6613,4 +6614,6 @@
         FA0jGkIyAAAAAElFTkSuQmCC
 </value>
   </data>
+=======
+>>>>>>> fd53677075a9f715ca932c6bb62448e4bb2c0061
 </root>

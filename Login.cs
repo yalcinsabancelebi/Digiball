@@ -33,7 +33,10 @@ namespace Digiball
         public static string? Country;
 
         public static Dictionary<int, string[]> players = new Dictionary<int, string[]>();
+<<<<<<< HEAD
         public static List<string> teams = new List<string>();
+=======
+>>>>>>> fd53677075a9f715ca932c6bb62448e4bb2c0061
 
 
         private void button2_Click(object sender, EventArgs e)
@@ -71,7 +74,10 @@ namespace Digiball
                 SqlDataReader dr = query.ExecuteReader();
                 while (dr.Read())
                 {
+<<<<<<< HEAD
                     teams.Add(dr["TeamName"].ToString());
+=======
+>>>>>>> fd53677075a9f715ca932c6bb62448e4bb2c0061
                     teamcbx.Items.Add(dr["TeamName"]);
                 }
             }

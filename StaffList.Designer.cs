@@ -258,7 +258,10 @@
             // 
             // staffpanel
             // 
+<<<<<<< HEAD
             this.staffpanel.AllowDrop = true;
+=======
+>>>>>>> fd53677075a9f715ca932c6bb62448e4bb2c0061
             this.staffpanel.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(64)))), ((int)(((byte)(0)))), ((int)(((byte)(0)))));
             this.staffpanel.Controls.Add(this.formanolbl);
             this.staffpanel.Controls.Add(this.positionlbl);
@@ -275,7 +278,10 @@
             this.staffpanel.Name = "staffpanel";
             this.staffpanel.Size = new System.Drawing.Size(460, 60);
             this.staffpanel.TabIndex = 21;
+<<<<<<< HEAD
             this.staffpanel.MouseDown += new System.Windows.Forms.MouseEventHandler(this.staffpanel_MouseDown);
+=======
+>>>>>>> fd53677075a9f715ca932c6bb62448e4bb2c0061
             // 
             // heightlbl
             // 
@@ -305,7 +311,10 @@
             // 
             // StaffList
             // 
+<<<<<<< HEAD
             this.AllowDrop = true;
+=======
+>>>>>>> fd53677075a9f715ca932c6bb62448e4bb2c0061
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.DarkSlateBlue;
@@ -319,7 +328,10 @@
             this.Padding = new System.Windows.Forms.Padding(3);
             this.Size = new System.Drawing.Size(725, 60);
             this.Load += new System.EventHandler(this.StaffList_Load);
+<<<<<<< HEAD
             this.MouseDown += new System.Windows.Forms.MouseEventHandler(this.StaffList_MouseDown);
+=======
+>>>>>>> fd53677075a9f715ca932c6bb62448e4bb2c0061
             ((System.ComponentModel.ISupportInitialize)(this.playerpic)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.star4)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.star3)).EndInit();
